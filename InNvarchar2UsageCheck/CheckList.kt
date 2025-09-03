@@ -82,3 +82,4 @@ object CheckList {
                 UnnecessaryLikeCheck::class.java)
 
 }
+
